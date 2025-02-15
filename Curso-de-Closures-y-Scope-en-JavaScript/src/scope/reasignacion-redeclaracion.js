@@ -21,7 +21,7 @@ console.log(fruit);
 
 //Const
 const animal = 'Dog';// Declarar/Asignar
-//animar = 'Cat'; // Reasignar
+//animal = 'Cat'; // Reasignar
 const animal = 'Snake';
 console.log(animal); 
 
