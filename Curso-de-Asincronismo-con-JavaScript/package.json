@@ -1,0 +1,14 @@
+{
+  "name": "curso-de-asincronismo-con-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Juan Henao camivallejo2010@hotmail.com",
+  "license": "MIT",
+  "description": ""
+}
